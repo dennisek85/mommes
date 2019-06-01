@@ -1,3 +1,5 @@
+# WIP, redux assigment
+
 # Mommes-redux
 
 This is a barebones implementation of Redux with a React app.
